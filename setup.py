@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 setup(
     name='dmc2gym_custom',
     version='1.0.0',
-    author='Thomas Schmied',
+    author='Avirup Das',
     description=('a gym like wrapper for dm_control'),
     license='',
     keywords='gym dm_control openai deepmind',
